@@ -1,0 +1,2 @@
+class PresaleItemsService(object):
+    pass
