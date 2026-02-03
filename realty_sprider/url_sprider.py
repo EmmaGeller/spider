@@ -15,6 +15,7 @@ class UrlSprider(object):
         self.new_urls = []
         self.old_urls = []
         self.url = ''
+        self.password='wishyouhell123'
 
     def add_new_url(self, url):
         if url is None:
